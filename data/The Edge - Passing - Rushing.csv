@@ -1,0 +1,76 @@
+PLAYER,TEAM,G,FPTS,SNAPS,RUSH ATT,RUSH YDS,YPC,RUSH TD,DESIGN RUNS
+"Josh Allen","Buffalo Bills",17,410.6,1081,111,524,4.7,15,52
+"Jalen Hurts","Philadelphia Eagles",17,371.8,1069,157,605,3.9,15,100
+"Dak Prescott","Dallas Cowboys",17,351.8,1060,55,242,4.4,2,14
+"Lamar Jackson","Baltimore Ravens",16,338.2,992,148,821,5.5,5,72
+"Jordan Love","Green Bay Packers",17,330.1,1044,50,247,4.9,4,14
+"Brock Purdy","San Francisco 49ers",16,306.6,899,39,144,3.7,2,9
+"Jared Goff","Detroit Lions",17,303.1,1137,32,21,0.7,2,4
+"Patrick Mahomes","Kansas City Chiefs",16,294.2,1000,75,389,5.2,0,1
+"Tua Tagovailoa","Miami Dolphins",17,284.4,1004,35,74,2.1,0,1
+"Baker Mayfield","Tampa Bay Buccaneers",17,284.1,1048,62,163,2.6,1,10
+"C.J. Stroud","Houston Texans",15,281,934,39,167,4.3,3,10
+"Trevor Lawrence","Jacksonville Jaguars",16,278.5,1005,70,339,4.8,4,16
+"Sam Howell","Seattle Seahawks",17,276.5,1021,48,263,5.5,5,8
+"Russell Wilson","Pittsburgh Steelers",15,264.9,892,80,341,4.3,3,29
+"Matthew Stafford","Los Angeles Rams",15,254.1,959,21,65,3.1,0,2
+"Derek Carr","New Orleans Saints",17,249.1,952,32,40,1.3,0,4
+"Justin Herbert","Los Angeles Chargers",13,241.2,800,52,228,4.4,3,9
+"Justin Fields","Pittsburgh Steelers",13,237.2,803,124,657,5.3,4,71
+"Geno Smith","Seattle Seahawks",15,236.3,858,37,155,4.2,1,8
+"Joshua Dobbs","San Francisco 49ers",13,210.7,809,77,421,5.5,6,32
+"Gardner Minshew","Las Vegas Raiders",16,205.2,932,34,100,2.9,3,2
+"Desmond Ridder","Arizona Cardinals",15,187.1,822,53,193,3.6,5,19
+"Bryce Young","Carolina Panthers",16,166.4,1020,39,253,6.5,0,2
+"Kirk Cousins","Atlanta Falcons",8,158.7,486,14,25,1.8,0,8
+"Joe Burrow","Cincinnati Bengals",10,153.2,580,31,88,2.8,0,4
+"Kyler Murray","Arizona Cardinals",8,151.4,516,44,244,5.5,3,20
+"Jake Browning","Cincinnati Bengals",9,151.4,453,27,127,4.7,3,7
+"Aidan O'Connell","Las Vegas Raiders",11,132.8,627,17,11,0.6,1,10
+"Zach Wilson","Denver Broncos",12,126.9,660,36,211,5.9,0,3
+"Mac Jones","Jacksonville Jaguars",11,120.4,614,26,96,3.7,0,9
+"Kenny Pickett","Philadelphia Eagles",12,114.2,643,42,54,1.3,1,9
+"Joe Flacco","Indianapolis Colts",5,108.8,334,9,2,0.2,0,2
+"Will Levis","Tennessee Titans",9,108,507,25,57,2.3,1,4
+"Tommy DeVito","New York Giants",9,96.5,395,36,195,5.4,1,10
+"Deshaun Watson","Cleveland Browns",6,90.8,370,26,142,5.5,1,8
+"Tyrod Taylor","New York Jets",11,90.3,352,38,197,5.2,0,7
+"Ryan Tannehill","",10,87,477,17,74,4.4,1,3
+"Bailey Zappe","New England Patriots",10,78.2,405,17,83,4.9,1,6
+"Nick Mullens","Minnesota Vikings",5,74.7,235,10,25,2.5,0,5
+"Anthony Richardson","Indianapolis Colts",4,73.7,164,25,136,5.4,4,16
+"Jimmy Garoppolo","Los Angeles Rams",7,73.1,312,20,39,2,0,5
+"Taylor Heinicke","Atlanta Falcons",5,70,265,15,124,8.3,1,0
+"Easton Stick","Los Angeles Chargers",5,68.6,306,27,144,5.3,1,17
+"Daniel Jones","New York Giants",6,63,314,40,206,5.2,1,18
+"Tyson Bagent","Chicago Bears",5,59.3,294,23,109,4.7,2,9
+"Mitch Trubisky","Buffalo Bills",5,53.7,192,16,54,3.4,2,5
+"Mason Rudolph","Tennessee Titans",4,39.6,197,10,8,0.8,0,4
+"Drew Lock","New York Giants",4,32.1,140,5,14,2.8,0,1
+"Trevor Siemian","",5,31,272,11,40,3.6,0,3
+"Jarrett Stidham","Denver Broncos",3,27.6,130,9,8,0.9,0,2
+"Carson Wentz","Kansas City Chiefs",2,27.1,66,17,56,3.3,1,12
+"Dorian Thompson-Robinson","Cleveland Browns",8,26.1,206,14,65,4.6,0,7
+"Tyler Huntley","Cleveland Browns",5,25.6,86,15,55,3.7,0,4
+"P.J. Walker","Seattle Seahawks",6,25,232,13,30,2.3,0,4
+"Sam Darnold","Minnesota Vikings",10,24.4,125,21,15,0.7,1,4
+"Andy Dalton","Carolina Panthers",3,23.6,77,3,12,4,0,2
+"Jacoby Brissett","New England Patriots",3,22.9,42,3,19,6.3,0,1
+"C.J. Beathard","Jacksonville Jaguars",7,21.5,108,8,35,4.4,0,0
+"Davis Mills","Houston Texans",6,17.8,52,2,9,4.5,0,1
+"Jeff Driskel","Washington Commanders",1,15.9,53,7,33,4.7,0,3
+"Jameis Winston","Cleveland Browns",7,15,73,5,-6,-1.2,0,0
+"Tim Boyle","Houston Texans",3,14.9,119,4,5,1.3,0,3
+"Marcus Mariota","Washington Commanders",3,12.8,44,8,52,6.5,0,6
+"Case Keenum","Houston Texans",2,12.7,103,2,1,0.5,0,1
+"Clayton Tune","Arizona Cardinals",7,9.5,57,8,30,3.8,1,2
+"Blaine Gabbert","",2,8.9,78,7,45,6.4,0,0
+"Brian Hoyer","",3,6.9,74,3,-3,-1,0,0
+"Cooper Rush","Dallas Cowboys",7,4.3,66,12,-5,-0.4,0,1
+"Brett Rypien","Chicago Bears",2,3.8,75,3,19,6.3,0,0
+"Jaren Hall","Minnesota Vikings",3,3.1,46,6,14,2.3,0,0
+"Mike White","Miami Dolphins",6,3.1,51,8,-9,-1.1,0,0
+"Malik Willis","Tennessee Titans",3,3.1,18,5,21,4.2,0,1
+"Sean Clifford","Green Bay Packers",2,1.3,13,3,-2,-0.7,0,0
+"AJ McCarron","",2,0.8,16,0,0,0,0,0
+"Logan Woodside","Cincinnati Bengals",1,0.7,10,1,6,6,0,0

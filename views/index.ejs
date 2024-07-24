@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/styles.css">
+  <title>Draft Dynamo</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Draft Dynamo</h1>
+    <input type="text" id="searchBar" placeholder="Search for a player..." onkeyup="filterPlayers()">
+    <div id="playerStats">
+      <% players.forEach(player => { %>
+        <div class="player">
+          <h2><%= player.PLAYER %></h2>
+          <p>Team: <%= player.TEAM %></p>
+          <p>Games Played: <%= player.G %></p>
+          <p>Fantasy Points: <%= player.FPTS %></p>
+          <p>Targets: <%= player.TGT %></p>
+          <p>Receptions: <%= player.REC %></p>
+          <p>Receiving Yards: <%= player['REC YDS'] %></p>
+          <p>Receiving Touchdowns: <%= player['REC TD'] %></p>
+          <p>Target Share: <%= player['TGT SHARE'] %></p>
+          <p>Yards Per Route Run: <%= player.YPRR %></p>
+          <p>Air Yards: <%= player.AIRY %></p>
+          <p>Team Air Yards Share: <%= player['TM AIRY SHR'] %></p>
+          <p>Yards Per Reception: <%= player.YPR %></p>
+          <p>Catch Rate: <%= player['CATCH RATE'] %></p>
+          <p>Snaps: <%= player.SNAPS %></p>
+          <p>Routes Run: <%= player.RR %></p>
+        </div>
+      <% }) %>
+    </div>
+  </div>
+  <script src="/js/client.js"></script>
+</body>
+</html>

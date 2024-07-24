@@ -1,0 +1,79 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Header */
+  h1 {
+    color: #bb86fc;
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  /* Search Bar */
+  #searchBar {
+    width: 80%;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #444;
+    border-radius: 5px;
+    background-color: #333;
+    color: #e0e0e0;
+    font-size: 1.2em;
+    transition: all 0.3s ease;
+  }
+  
+  #searchBar:focus {
+    border-color: #bb86fc;
+    outline: none;
+  }
+  
+  /* Player Stats */
+  #playerStats {
+    margin-top: 20px;
+  }
+  
+  .player {
+    border: 1px solid #444;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    background-color: #1e1e1e;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .player:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .player h2 {
+    color: #bb86fc;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .player p {
+    margin: 5px 0;
+    color: #e0e0e0;
+    font-size: 1.1em;
+  }
+  
+  /* Footer */
+  footer {
+    margin-top: 20px;
+    color: #666;
+    font-size: 0.9em;
+  }
+  
